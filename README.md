@@ -57,10 +57,7 @@ else
  out <= out+1;
 
 
-Developed by:R.mounish vamsi kumar
 
-RegisterNumber:24003774
-*/
 
 **RTL LOGIC UP COUNTER**
 
